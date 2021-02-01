@@ -1,0 +1,35 @@
+{
+    "mobiles":[
+        {
+           "name":"I Phone Xs Max",
+           "image":"images/1.jpg",
+           "originalprice":73999,
+           "price":75000
+        },{
+            "name":"I Phone 6",
+           "image":"images/2.jpg",
+           "originalprice":48099,
+           "price":50000
+        },{
+            "name":"One Plus",
+           "image":"images/3.jpg",
+           "originalprice":44000,
+           "price":45000
+
+        },{
+            "name":"POCO",
+           "image":"images/4.jpg",
+           "originalprice":30000,
+           "price":31000
+        
+
+        },{
+            "name":"I Phone 12",
+           "image":"../images/5.jpg",
+           "originalprice":180000,
+           "price":200000
+
+        }
+        
+    ]
+}
